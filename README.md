@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm a BCA student diving deep into the world of tech.
+- 🎓 I'm a  student diving deep into the world of tech.
 - 🧠 Currently learning and building projects using:
   - <strong>Python</strong> 🐍  
   - <strong>Artificial Intelligence</strong> 🤖  
