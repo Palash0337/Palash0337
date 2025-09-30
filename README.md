@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Palash 👋</h1>
-<h3 align="center">🚀 Python & AI Enthusiast | Frontend Dev Learner | BCA Student</h3>
+<h3 align="center">🚀 Python & AI Enthusiast  | BCA Student</h3>
 
 ---
 
