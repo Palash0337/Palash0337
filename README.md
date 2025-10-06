@@ -1,62 +1,75 @@
-<h1 align="center">Hi 👋, I'm Palash</h1>
-<h3 align="center">A passionate Frontend Developer & BCA Student</h3>
+<h1 align="center">Hey there 👋, I'm Palash</h1>
+<h3 align="center">💻 BCA Student | Frontend Developer | Learning Python & AI Tools</h3>
 
 ---
 
-### 📊 GitHub Stats:
+### 🚀 About Me
+- 🎯 I am currently learning **Python + Frontend Development (HTML, CSS, JS, React)**  
+- 💡 I am interested in **Web Development, AI, and Creative Tech Projects**  
+- 🧠 Always exploring how **AI + Web** can build smarter tools  
+- 🐍 Practicing **Python projects** and **C DSA** to strengthen my base  
+- 💬 Ask me about **Frontend, GitHub, or Learning Strategies**
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=palash123&show_icons=true&theme=radical" alt="palash123" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Palash0337&show_icons=true&theme=tokyonight" alt="Palash's GitHub stats" />
 </p>
 
 ---
 
-### 🧮 GitHub Streak:
+### 🔥 Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palash123&theme=radical" alt="palash123" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Palash0337&theme=tokyonight" alt="Palash's streak" />
 </p>
 
 ---
 
-### 🧠 Most Used Languages:
+### 🧮 Contribution Summary
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palash123&layout=compact&theme=radical" alt="palash123" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Palash0337&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
 
-### 🪶 Total Contributions:
+### 💻 Most Used Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=palash123&theme=radical" alt="palash123" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palash0337&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+### 🧠 Current Tech Stack
 <p align="center">
-<a href="https://www.linkedin.com/in/palash123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="palash linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/palash123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="palash twitter" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
 </p>
 
 ---
 
-### ⚡ Languages and Tools:
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode" />
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/palash0337" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/palash0337" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
 </p>
 
 ---
 
-⭐ From [Palash0337](https://github.com/Palash0337)
+### 📈 Activity Graph
+![Palash's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Palash0337&theme=react-dark)
 
-![Palash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=palash123&theme=react-dark)
+---
 
+### 🐍 Fun Touch
+![Snake animation](https://github.com/Palash0337/Palash0337/blob/output/github-contribution-grid-snake.svg)
 
+---
 
-![](https://komarev.com/ghpvc/?username=palash123&label=Profile%20views&color=0e75b6&style=flat)
-
-
-
-
-![snake gif](https://github.com/palash123/palash123/blob/output/github-contribution-grid-snake.svg)
+⭐ **From [Palash0337](https://github.com/Palash0337)**
 
 
