@@ -1,8 +1,10 @@
-[<h1 align="center">Hi 👋 I am Palash Das</h1>
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif"  />
+</div>
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif"  />
+<h1 align="center">Hi 👋 I am Palash Das</h1>
 
 ###
 
@@ -10,7 +12,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">Abou Me ------</p>
 
 ###
 
@@ -61,23 +63,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/palash0337/palash0337/output/snake.svg" alt="Snake animation" />
-
-##### Hi there 👋
-
-<!--
-**Palash0337/Palash0337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
