@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋 I am Palash Das</h1>
-
-###
-
 <div align="center">
   <img height="200" src="https://dezinebrainz.com/images/software-gif.gif"  />
 </div>
+
+###
+
+<h1 align="left">Hi 👋 I am Palash Das</h1>
 
 ###
 
@@ -12,11 +12,11 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif"  />
+<p align="left">Abou Me ------</p>
 
 ###
 
-<p align="left">Abou Me ------</p>
+<img align="right" height="200" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif"  />
 
 ###
 
