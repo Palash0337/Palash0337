@@ -1,14 +1,18 @@
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋 I am Palash Das</h1>
 
 ###
 
+<div align="center">
+  <img height="200" src="https://dezinebrainz.com/images/software-gif.gif"  />
+</div>
+
+###
+
 <p align="left"></p>
+
+###
+
+<img align="right" height="200" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif"  />
 
 ###
 
