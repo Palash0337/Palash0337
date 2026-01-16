@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 👋 I am Palash Das</h1>
+<h2 align="left">Hi 👋 I am Palash Das</h2>
 
 ###
 
@@ -13,10 +13,6 @@
 ###
 
 <p align="left">Abou Me ------</p>
-
-###
-
-<img align="right" height="200" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif"  />
 
 ###
 
@@ -52,7 +48,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/palashdas2005" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
