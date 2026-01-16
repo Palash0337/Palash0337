@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I am Palash Das</h1>
+[<h1 align="center">Hi 👋 I am Palash Das</h1>
 
 ###
 
@@ -80,3 +80,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif)
