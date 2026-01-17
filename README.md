@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="100" src="https://dezinebrainz.com/images/software-gif.gif"  />
+  <img height="150" src="https://dezinebrainz.com/images/software-gif.gif"  />
 </div>
 
 ###
